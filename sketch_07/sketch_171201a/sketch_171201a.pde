@@ -1,8 +1,8 @@
 int a, b, c;
 float D, x1, x2;;
-a = 5;
-b = 6;
-c = 7;
+a = 8;
+b = 9;
+c = 10;
 D = b * b - 4 * a * c;
 if (D > 0) {
     x1 = (-b - sqrt(D)) / (2 * a);
